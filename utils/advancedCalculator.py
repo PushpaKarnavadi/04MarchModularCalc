@@ -1,5 +1,5 @@
 # Advanced calculator using inheritance
-from calculator import Calculator
+from utils.calculator import Calculator
 class AdvancedCalculator(Calculator):
 
     def power(self):
